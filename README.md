@@ -6,5 +6,7 @@ My name is Alex Muir and I graduated with a Bachelors in Communications with a M
 How to reach me:
 📩  muirkat138@gmail.com
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexMuir138&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 "Don't take life too seriously. You'll never get out alive."
 -Van Wilder
